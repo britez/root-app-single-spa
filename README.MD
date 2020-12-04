@@ -6,8 +6,8 @@ Aplicación base para cargar múltiples aplicaciones spa
 
 Es necesario clonar y correr estas dos apps antes
 
-[App React](https://github.com/britez/react-single-spa-application)
-link2
+* [App React](https://github.com/britez/react-single-spa-application)
+* [App Angular](https://github.com/britez/angular-single-spa-application)
 
 ### Para correr esta app...
 
