@@ -1,8 +1,8 @@
-#Root app
+# Root app
 
 Aplicación base para cargar múltiples aplicaciones spa
 
-https://single-spa.js.org/docs/configuration
+[Single SPA Docs](https://single-spa.js.org/docs/configuration)
 
 Es necesario clonar y correr estas dos apps antes
 
