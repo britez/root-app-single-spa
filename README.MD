@@ -6,7 +6,7 @@ Aplicación base para cargar múltiples aplicaciones spa
 
 Es necesario clonar y correr estas dos apps antes
 
-link1
+[App React](https://github.com/britez/react-single-spa-application)
 link2
 
 ### Para correr esta app...
